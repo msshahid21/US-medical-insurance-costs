@@ -1,4 +1,4 @@
-# Project Name
+# U.S. Medical Insurance Costs
 This project is a portfolio project as part of the Codecademy [Data Science Career Path](https://www.codecademy.com/learn/paths/data-science).
 
 #### -- Project Status: [In-Progress]
